@@ -1,5 +1,4 @@
 let productTaxes = (name = "Producto generico", price = 100, tax = 21) => {
-    debugger;
     if(typeof name !== "string" || typeof price !== "number" || typeof tax !== "number") {
         console.error("Invalid input")
     } else {
