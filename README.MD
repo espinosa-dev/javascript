@@ -2,4 +2,4 @@
 
 # Notes
 
-- [] See spread expresion
+- [ ] See spread expresion
