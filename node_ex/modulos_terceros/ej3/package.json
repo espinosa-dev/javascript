@@ -1,0 +1,16 @@
+{
+  "name": "ej3",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "espinosadev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}
